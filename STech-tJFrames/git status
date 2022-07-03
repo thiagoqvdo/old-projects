@@ -1,0 +1,436 @@
+[33mcommit 4980712fe0fbb44f2c80e22d3f39e93d6193d7f5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 8f8edf3 1369f84
+Author: jairb <jairbferraz@outlook.com>
+Date:   Mon Aug 16 15:06:21 2021 -0300
+
+    Merge branch 'master' of https://github.com/jbferraz/STech-tJFrames
+
+[33mcommit 1369f84460bb8ba515722cb828587bf185421a62[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Thiago Quevedo <thiagoquevedodossantos@gmail.com>
+Date:   Mon Aug 16 14:20:43 2021 -0300
+
+    Testando
+
+[33mcommit 8f8edf3f327dcc85aaa72d5c8510352ea1937c82[m
+Author: jairb <jairbferraz@outlook.com>
+Date:   Mon Aug 16 14:14:28 2021 -0300
+
+    jfJair - incluindo novos testes
+
+[33mcommit c7fde7d7ccdca3771c7f8d8aa39c10bc1499fcdc[m
+Merge: f659050 baad231
+Author: jairb <jairbferraz@outlook.com>
+Date:   Mon Aug 16 14:13:42 2021 -0300
+
+    Merge origin/master
+
+[33mcommit baad231534e35d38978f2cbe8c066fbd182a94e2[m
+Author: Thiago Quevedo <thiagoquevedodossantos@gmail.com>
+Date:   Mon Aug 16 11:04:29 2021 -0300
+
+    Retirando função de erro caso digite número inválido
+
+[33mcommit a6d4889c19eaddc47b6220d0e78c54c59ee0517a[m
+Author: Thiago Quevedo <thiagoquevedodossantos@gmail.com>
+Date:   Mon Aug 16 10:34:36 2021 -0300
+
+    Adicionando funcionalidade de calcular ao botão enter
+
+[33mcommit f6590505f571b0816ffc8c71d24a63d3d48ad477[m
+Author: jbferraz <>
+Date:   Fri Aug 13 15:13:52 2021 -0300
+
+    jfJair - incluindo novos testes
+
+[33mcommit 91de2ddd6983bc9d3f3f973157d6e7052a700015[m
+Author: jbferraz <>
+Date:   Fri Aug 13 14:21:51 2021 -0300
+
+    jfJair - incluindo novos testes
+
+[33mcommit 0e8517f3d0df6a8c70cfb574b46f4c93e00cb773[m
+Merge: 0cce142 f05beff
+Author: Thiago Quevedo <thiagoquevedodossantos@gmail.com>
+Date:   Thu Aug 12 17:05:54 2021 -0300
+
+    Merge branch 'master' of https://github.com/jbferraz/STech-tJFrames
+
+[33mcommit f05befffdc9cbf46049150c4e88aea1acad2691a[m
+Merge: f3d3fc3 7ef330b
+Author: wilian <wilian@DESKTOP-4C5O2JS>
+Date:   Thu Aug 12 17:05:36 2021 -0300
+
+    Merge origin/master
+
+[33mcommit f3d3fc306f216b93ddab00bd58281c61a806ef12[m
+Author: wilian <wilian>
+Date:   Thu Aug 12 17:05:27 2021 -0300
+
+    jfWilian Calculando idade
+
+[33mcommit 0cce14257509ea735465c8997627dc04dbc5a6de[m
+Merge: 71fbe88 e8f3599
+Author: Thiago Quevedo <thiagoquevedodossantos@gmail.com>
+Date:   Thu Aug 12 17:05:10 2021 -0300
+
+    Merge branch 'master' of https://github.com/jbferraz/STech-tJFrames
+
+[33mcommit 7ef330bdcc65a3eb4378e0eba02acb6a4ef01914[m
+Author: jbferraz <>
+Date:   Thu Aug 12 17:05:01 2021 -0300
+
+    jfJair - calculando e validando
+
+[33mcommit 71fbe88798e42c263ca19551a46ee0693eddc672[m
+Author: Thiago Quevedo <thiagoquevedodossantos@gmail.com>
+Date:   Thu Aug 12 17:04:59 2021 -0300
+
+    Restringindo para apenas números
+
+[33mcommit e8f35995de40e2eec36198c2f4465f3b0662989d[m
+Merge: bb9db1e 1ae3e2b
+Author: admin <admin@nbmpc058>
+Date:   Thu Aug 12 16:55:59 2021 -0300
+
+    Merge origin/master
+
+[33mcommit bb9db1eb7ebf4ef9926dc36de026832f440f763c[m
+Author: admin <admin@nbmpc058>
+Date:   Thu Aug 12 16:55:33 2021 -0300
+
+    tjFrames senac
+
+[33mcommit 1ae3e2b0bb3061b50c6c72ba967203df6735c706[m
+Merge: d423dd1 8c3037b
+Author: wilian <wilian@DESKTOP-4C5O2JS>
+Date:   Thu Aug 12 16:55:05 2021 -0300
+
+    Merge origin/master
+
+[33mcommit d423dd1efd008075bdad289a5457a98c5b63c6ff[m
+Author: wilian <wilian@DESKTOP-4C5O2JS>
+Date:   Thu Aug 12 16:54:50 2021 -0300
+
+    jfWilian
+
+[33mcommit 8c3037ba8ecdc59e42a26f74fa7611ba892f377a[m
+Merge: 9e65eac edd8893
+Author: Igor Vieira <igorvieira981@hotmail.com>
+Date:   Thu Aug 12 16:53:43 2021 -0300
+
+    Merge origin/master
+
+[33mcommit 9e65eac7d360d8d80a261adc23307eda039bbe52[m
+Author: Igor Vieira <igorvieira981@hotmail.com>
+Date:   Thu Aug 12 16:53:34 2021 -0300
+
+    JFIgor - Ajuste cores,resultado
+
+[33mcommit edd88938704dc6faaf4b8b77efbb4efebb69f039[m
+Merge: 3533e0c 50ad06d
+Author: Thiago Quevedo <thiagoquevedodossantos@gmail.com>
+Date:   Thu Aug 12 16:52:43 2021 -0300
+
+    Merge branch 'master' of https://github.com/jbferraz/STech-tJFrames
+
+[33mcommit 3533e0cda3fe14588096fdd0ad540934d1b17873[m
+Author: Thiago Quevedo <thiagoquevedodossantos@gmail.com>
+Date:   Thu Aug 12 16:52:35 2021 -0300
+
+    Adicionando cor caso de valor inválido
+
+[33mcommit 50ad06de75c74bd3f8eeb69a52c512182cc14dd4[m
+Merge: 60879d3 4bf3257
+Author: Igor Vieira <igorvieira981@hotmail.com>
+Date:   Thu Aug 12 15:39:23 2021 -0300
+
+    Merge origin/master
+
+[33mcommit 60879d36243451e364357c305f1b118ea3be8c4e[m
+Author: Igor Vieira <igorvieira981@hotmail.com>
+Date:   Thu Aug 12 15:39:14 2021 -0300
+
+    JFIgor - Ajuste denovo 2.0
+
+[33mcommit 4bf3257d9ebe539cec4fbd4f80c027ef4e881b28[m
+Author: Thiago Quevedo <thiagoquevedodossantos@gmail.com>
+Date:   Thu Aug 12 15:39:03 2021 -0300
+
+    Adicionando nome para a janela
+
+[33mcommit e8b676f217c6b83b8f1389bd0e520a82645c0eb2[m
+Merge: c72f925 15a70e9
+Author: Igor Vieira <igorvieira981@hotmail.com>
+Date:   Thu Aug 12 15:37:44 2021 -0300
+
+    Merge origin/master
+
+[33mcommit c72f925c04b36e9a3aa908b6f98d06027b705ba4[m
+Author: Igor Vieira <igorvieira981@hotmail.com>
+Date:   Thu Aug 12 15:37:31 2021 -0300
+
+    JFIgor - Ajuste denovo
+
+[33mcommit 15a70e9805b9223267e9fbdc3994ce4484b3b959[m
+Author: drao81924 <FNACPOA@LAPTOP-J3QQJ6EO>
+Date:   Thu Aug 12 15:35:48 2021 -0300
+
+    Yuri JeiFrame Envio
+
+[33mcommit 916ec1fa797806d2d964893315f2f29d442c0089[m
+Merge: 5773b92 2b2fc52
+Author: admin <admin@nbmpc058>
+Date:   Thu Aug 12 15:35:05 2021 -0300
+
+    Merge origin/master
+
+[33mcommit 5773b922649a9801c4d074fbf6ac20f95f615fbd[m
+Author: admin <admin@nbmpc058>
+Date:   Thu Aug 12 15:34:52 2021 -0300
+
+    tjFrames senac
+
+[33mcommit 2b2fc521c5718685f938fe12625fa99b7eb893cc[m
+Merge: 2eaf048 bec4242
+Author: wilian <wilian@DESKTOP-4C5O2JS>
+Date:   Thu Aug 12 15:34:40 2021 -0300
+
+    Merge origin/master
+
+[33mcommit 2eaf0488eafbf413bb5cdc17be3f7f1568111933[m
+Author: wilian <wilian>
+Date:   Thu Aug 12 15:34:30 2021 -0300
+
+    jfWilian
+
+[33mcommit bec424280c218f0ea1e26db2c2d0a5fbfb9ce5ba[m
+Merge: 90c5ff4 ec9102d
+Author: admin <admin@nbmpc058>
+Date:   Thu Aug 12 15:32:19 2021 -0300
+
+    Merge origin/master
+
+[33mcommit 90c5ff47aba0ca0d6386bf4b2f4a248ec0c7941a[m
+Author: admin <admin@nbmpc058>
+Date:   Thu Aug 12 15:32:02 2021 -0300
+
+    tjFrames senac
+
+[33mcommit ec9102d7151091440ca9c11ca9ffeee7db7a65c1[m
+Merge: 5b4ac6b e13aa62
+Author: Gabriel Lopes <Gabriel Lopes@Bielinho>
+Date:   Thu Aug 12 15:31:08 2021 -0300
+
+    Merge origin/master
+
+[33mcommit 5b4ac6b72b38c477ae4046dfa38cdba47c39be0b[m
+Author: Gabriel Lopes <Gabriel Lopes@Bielinho>
+Date:   Thu Aug 12 15:30:52 2021 -0300
+
+    Envio do JFrame Gabriel
+
+[33mcommit 91829a5559cfffc590042315448f9cc583227416[m
+Author: admin <admin@nbmpc058>
+Date:   Thu Aug 12 15:29:39 2021 -0300
+
+    tjFrames senac
+
+[33mcommit e13aa623837b69a53eee8c8968b89b91ee1bc7aa[m
+Merge: 83c4d90 6c14737
+Author: Thiago Quevedo <thiagoquevedodossantos@gmail.com>
+Date:   Thu Aug 12 15:27:15 2021 -0300
+
+    Merge branch 'master' of https://github.com/jbferraz/STech-tJFrames
+
+[33mcommit 83c4d90e30f506bf1d7a5ec85ff4c972a18b5fe5[m
+Author: Thiago Quevedo <thiagoquevedodossantos@gmail.com>
+Date:   Thu Aug 12 15:27:02 2021 -0300
+
+    Setando posição da janela
+
+[33mcommit 6c14737e8da27080d731791133f2a3f6de2172e8[m
+Author: Igor Vieira <igorvieira981@hotmail.com>
+Date:   Thu Aug 12 15:21:59 2021 -0300
+
+    JFIgor - Ajuste
+
+[33mcommit f4624b62d05c5236b86cb7267899a6e473261e4e[m
+Author: drao81924 <>
+Date:   Thu Aug 12 14:50:55 2021 -0300
+
+    Yuri JeiFrame Envio
+
+[33mcommit 49d02f0071182506717489172aba6695020abdbd[m
+Merge: 198537a 2b055dc
+Author: Igor Vieira <igorvieira981@hotmail.com>
+Date:   Thu Aug 12 14:32:33 2021 -0300
+
+    Merge origin/master
+
+[33mcommit 2b055dca05b7c1988f58e74cec472760ab9ba04d[m
+Merge: e01c6d0 b820a3c
+Author: Gabriel Lopes <Gabriel Lopes@Bielinho>
+Date:   Thu Aug 12 14:30:52 2021 -0300
+
+    Merge origin/master
+
+[33mcommit 198537a76fd3cd1c24f1de27e45e2e417b47e449[m
+Author: Igor Vieira <>
+Date:   Thu Aug 12 14:27:03 2021 -0300
+
+    JFIgor - Ajuste dos nomes das variaveis.
+
+[33mcommit e01c6d02422c420e727a90ba4c9fcb5c74efc9b6[m
+Author: Gabriel Lopes <Gabriel Lopes@Bielinho>
+Date:   Thu Aug 12 14:29:46 2021 -0300
+
+    Envio do JFrame Gabriel
+
+[33mcommit b820a3c16da8d577c74c21ffc4b4b1c25b2bc0e4[m
+Merge: cb44bef 3178124
+Author: jairb <jairb@DESKTOP-22HPEHG>
+Date:   Thu Aug 12 14:29:39 2021 -0300
+
+    Merge origin/master
+
+[33mcommit 31781246c6d7d2091fcd549c32a588d15d7f0747[m
+Author: admin <admin@nbmpc058>
+Date:   Thu Aug 12 14:28:45 2021 -0300
+
+    tjFrames senac
+
+[33mcommit b84ac5997e2aa8cb87c435297650aa37de1dd44c[m
+Merge: 16a3380 b83ea5b
+Author: wilian <wilian@DESKTOP-4C5O2JS>
+Date:   Thu Aug 12 14:28:04 2021 -0300
+
+    Merge origin/master
+
+[33mcommit cb44bef7803828ff7c2d983d5664e57169c3dc91[m
+Author: jbferraz <>
+Date:   Thu Aug 12 14:27:04 2021 -0300
+
+    jfJair - Ajuste em nomes de veriaveis.
+
+[33mcommit b83ea5b134200501404636d01975496710ed6589[m
+Merge: 2230e87 6d612a5
+Author: Thiago Quevedo <thiagoquevedodossantos@gmail.com>
+Date:   Thu Aug 12 14:26:50 2021 -0300
+
+    Merge branch 'master' of https://github.com/jbferraz/STech-tJFrames
+
+[33mcommit 2230e87a35e66a95575d78fdabf5c8bfd2b3acb9[m
+Author: Thiago Quevedo <thiagoquevedodossantos@gmail.com>
+Date:   Thu Aug 12 14:26:25 2021 -0300
+
+    Adicionando nome aos objetos
+
+[33mcommit 16a3380120349a7cf3e827e19b056b5836a5590c[m
+Author: wilian <wilian>
+Date:   Thu Aug 12 14:25:18 2021 -0300
+
+    jfWilian
+
+[33mcommit 6d612a5e7e86610609ceb42462c8f9da901c75a2[m
+Author: admin <admin@nbmpc058>
+Date:   Thu Aug 12 14:18:31 2021 -0300
+
+    tjFrames senac
+
+[33mcommit f780a932fe33b412caea046da84aa8a91b63e77b[m
+Author: admin <admin@nbmpc058>
+Date:   Thu Aug 12 14:17:13 2021 -0300
+
+    tjFrames senac
+
+[33mcommit ab1f6a4dc589cb0edf27d7c655958a046051dc9f[m
+Author: wilian <wilian>
+Date:   Thu Aug 12 14:05:08 2021 -0300
+
+    jfWilian
+
+[33mcommit 9a5e2010b6d404e1c54260fb96e621d585f5785a[m
+Merge: e363851 a6cd393
+Author: wilian <wilian@DESKTOP-4C5O2JS>
+Date:   Thu Aug 12 14:03:47 2021 -0300
+
+    Merge origin/master
+
+[33mcommit e363851e188bc576490e107bcebc549822d1fc07[m
+Author: wilian <wilian>
+Date:   Thu Aug 12 14:01:20 2021 -0300
+
+    jfWilian
+
+[33mcommit acced44ed10118b309abd3ef6b0d0b631e5ecfb3[m
+Author: wilian <wilian@DESKTOP-4C5O2JS>
+Date:   Wed Aug 11 17:09:53 2021 -0300
+
+    jfWilian
+
+[33mcommit fd897315427095075251043020fb0a9387b863d0[m
+Author: wilian <wilian@DESKTOP-4C5O2JS>
+Date:   Wed Aug 11 17:08:12 2021 -0300
+
+    jfWilian
+
+[33mcommit a6cd3934a508aec1844666bc168bdad08b3a3922[m
+Author: Gabriel Lopes <Gabriel Lopes@Bielinho>
+Date:   Wed Aug 11 17:07:29 2021 -0300
+
+    Envio do JFrame Gabriel
+
+[33mcommit 1ef4ba0029b4306dd3cb0028d6d6dbb853f49f63[m
+Author: wilian <wilian@DESKTOP-4C5O2JS>
+Date:   Wed Aug 11 17:04:18 2021 -0300
+
+    jfWilian
+
+[33mcommit a47c64299b9d7414fd59b4cc41144fb229923203[m
+Author: admin <admin@nbmpc058>
+Date:   Wed Aug 11 17:01:57 2021 -0300
+
+    tjFrames senac
+
+[33mcommit 3f9a760d136a7a25bba220f678c34174447d414f[m
+Author: admin <admin@nbmpc058>
+Date:   Wed Aug 11 17:00:40 2021 -0300
+
+    tjFrames senac
+
+[33mcommit b6f2c2ac660939076be076b084c3d0ffb098bd52[m
+Merge: c4e507c 3f43f2c
+Author: Thiago Quevedo <thiagoquevedodossantos@gmail.com>
+Date:   Wed Aug 11 16:52:00 2021 -0300
+
+    Commit Vitor
+
+[33mcommit c4e507c7b59fdf8d05a109f00deb332c62e7483d[m
+Author: Thiago Quevedo <thiagoquevedodossantos@gmail.com>
+Date:   Wed Aug 11 16:51:19 2021 -0300
+
+    Adicionando elementos no JFrame
+
+[33mcommit 3f43f2c242ee3f3157fcfdd2135490d7501a882c[m
+Author: admin <admin@nbmpc058>
+Date:   Wed Aug 11 16:47:04 2021 -0300
+
+    tjFrames senac
+
+[33mcommit 61b55e581bf5ef23f9129f240cadc92bc1fa4d94[m
+Author: jairb <jairb@DESKTOP-22HPEHG>
+Date:   Wed Aug 11 16:43:49 2021 -0300
+
+    Envio do JFrame Jair
+
+[33mcommit 70b98f1acca1bdf9f47224d99fecd6c61a7fcbb5[m
+Author: jairb <jairb@DESKTOP-22HPEHG>
+Date:   Wed Aug 11 16:13:56 2021 -0300
+
+    Segundo envio, projeto em equipe com a turma.
+
+[33mcommit 7816f4ded6a9ae438c63b3e63e1e2be862d34e27[m
+Author: jairb <jairb@DESKTOP-22HPEHG>
+Date:   Wed Aug 11 16:02:36 2021 -0300
+
+    Primeiro envio, projeto em equipe com a turma.
